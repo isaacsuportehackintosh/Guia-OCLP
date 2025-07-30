@@ -57,4 +57,4 @@ Agora você tem o macOS mais novo rodando no seu mac mais antigo!
 **Caso queira uma consultoria comigo, contate-me neste e-mail:**
 _isaac.suportehackintosh@gmail.com_
 
-**Valor: 20 reais.**
+**Valor: 50 reais.**
